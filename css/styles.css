@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+}
+
+/*HEADER*/
+
+.logo-one,
+.logo-two {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+header a {
+  text-decoration: none;
+}
+.logo-two {
+  color: #2e2f42;
+}
+
+.navigation {
+  color: #2e2f42;
+  font-weight: 500;
+  letter-spacing: 0.32px;
+}
+
+.kontact {
+  font-weight: 400;
+  letter-spacing: 0.32px;
+}
+
+.navigation a:hover,
+.navigation a:focus,
+.kontact a:hover,
+.kontact a:focus {
+  color: var(--OCEAN, #404bbf);
+}
+
+/*MAIN*/
+
+.big-block {
+  background-color: #2e2f42;
+  color: #fff;
+  text-align: center;
+}
+
+.big-block h1 {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+}
+
+.big-block button {
+  background-color: #4d5ae5;
+  color: #fff;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+  cursor: pointer;
+}
+
+.big-block button:hover,
+.big-block button:focus {
+  background-color: #404bbf;
+}
