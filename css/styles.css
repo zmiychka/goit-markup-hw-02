@@ -1,8 +1,13 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: ;
 }
 
+ul,
+ol {
+  list-style-type: none;
+}
 /*HEADER*/
 
 .logo-one,
@@ -85,6 +90,10 @@ h3 {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
+}
+
+.team {
+  background-color: #f4f4fd;
 }
 
 /*FOOTER*/
