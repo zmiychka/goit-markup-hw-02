@@ -68,3 +68,42 @@ header a {
 .big-block button:focus {
   background-color: #404bbf;
 }
+
+h2 {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+h3 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+
+/*FOOTER*/
+
+.footer {
+  background-color: #2e2f42;
+}
+.slogan {
+  color: var(--CLOUD, #f4f4fd);
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.logo-two-footer {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
