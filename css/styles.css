@@ -110,19 +110,11 @@ header a {
   background-color: #ffffff;
 }
 /*FOOTER*/
-
+footer a {
+  text-decoration: none;
+}
 .foot {
   background-color: #2e2f42;
-}
-
-.link-foot {
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.54px;
-  text-transform: uppercase;
-  color: #4d5ae5;
 }
 
 .slogan {
