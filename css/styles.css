@@ -1,7 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: ;
 }
 
 ul,
@@ -10,15 +9,18 @@ ol {
 }
 /*HEADER*/
 
-.logo-one,
-.logo-two {
-  color: #4d5ae5;
+.link {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+}
+
+.logo-one,
+.logo-two {
+  color: #4d5ae5;
 }
 header a {
   text-decoration: none;
