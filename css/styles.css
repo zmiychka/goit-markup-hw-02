@@ -108,12 +108,12 @@ header a {
 
 /*FOOTER*/
 
-.footer {
+.foot {
   background-color: #2e2f42;
 }
 .slogan {
-  color: var(--CLOUD, #f4f4fd);
-  line-height: 24px;
+  color: #f4f4fd;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
