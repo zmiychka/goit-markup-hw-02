@@ -114,6 +114,17 @@ header a {
 .foot {
   background-color: #2e2f42;
 }
+
+.link-foot {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
 .slogan {
   color: #f4f4fd;
   line-height: 1.5;
@@ -122,7 +133,7 @@ header a {
 
 .logo-two-footer {
   color: #f4f4fd;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
