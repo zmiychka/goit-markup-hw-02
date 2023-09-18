@@ -16,12 +16,9 @@ ol {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-}
-
-.logo-one,
-.logo-two {
   color: #4d5ae5;
 }
+
 header a {
   text-decoration: none;
 }
