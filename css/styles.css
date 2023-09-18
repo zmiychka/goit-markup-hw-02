@@ -79,7 +79,7 @@ header a {
   background-color: #404bbf;
 }
 
-.heading_two {
+.heading-two {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -89,7 +89,7 @@ header a {
   text-transform: capitalize;
 }
 
-.heading_three {
+.heading-three {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
