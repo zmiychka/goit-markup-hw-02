@@ -65,7 +65,7 @@ header a {
   letter-spacing: 1.12px;
 }
 
-.section-big-block button {
+.service {
   background-color: #4d5ae5;
   color: #fff;
   font-weight: 500;
@@ -74,8 +74,8 @@ header a {
   cursor: pointer;
 }
 
-.section-big-block button:hover,
-.section-big-block button:focus {
+.service:hover,
+.service:focus {
   background-color: #404bbf;
 }
 
