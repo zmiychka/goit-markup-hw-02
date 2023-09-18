@@ -38,11 +38,11 @@ header a {
   letter-spacing: 0.32px;
 }
 
-.navigation a:hover,
-.navigation a:focus,
+.navigation:hover,
+.navigation:focus,
 .kontact a:hover,
 .kontact a:focus {
-  color: var(--OCEAN, #404bbf);
+  color: #404bbf;
 }
 
 /*MAIN*/
