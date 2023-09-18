@@ -97,6 +97,11 @@ header a {
   letter-spacing: 0.4px;
 }
 
+.paragr-presentation {
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
 .team {
   background-color: #f4f4fd;
 }
