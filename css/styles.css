@@ -52,17 +52,16 @@ header a {
 }
 
 /*MAIN*/
-
-.big-block {
+.section-big-block {
   background-color: #2e2f42;
   color: #fff;
   text-align: center;
 }
 
-.big-block h1 {
+.big-block {
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 
